@@ -1,0 +1,14 @@
+{
+    "english": [
+        {
+            "question": "What is the meaning of \"Kind\" ?",
+            "options": [
+                "Hard",
+                "Tough",
+                "Soft",
+                "None"
+            ],
+            "correct": "C"
+        }
+    ]
+}
